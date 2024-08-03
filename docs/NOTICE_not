@@ -9,7 +9,7 @@ repositories (for example, NPM modules, Composer packages, or other dependencies
 If so, such third party code may be subject to other license terms than as set 
 forth above. In addition, such third party code may also depend on and load 
 multiple tiers of dependencies. Please review the applicable licenses of the 
-additional dependencies.
+additional dependencies. modify
 
 YHon L. Castañeda
 
